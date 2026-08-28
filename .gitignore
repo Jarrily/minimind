@@ -11,3 +11,5 @@ docs-minimind/
 >>>>>>> 30ba2fd405a73bf7d93271b8dbc20773ceb0d48f
 .idea/
 *.iml
+.idea/
+*.iml
