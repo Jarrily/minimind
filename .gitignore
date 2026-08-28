@@ -4,16 +4,9 @@ __pycache__/
 out
 website/
 <<<<<<< HEAD
-<<<<<<< HEAD
 docs-minimind/.idea/
 *.iml
-=======
 docs-minimind/
 >>>>>>> 30ba2fd405a73bf7d93271b8dbc20773ceb0d48f
 .idea/
-*.iml
-.idea/
-*.iml
-=======
-docs-minimind/
 >>>>>>> upstream/master
