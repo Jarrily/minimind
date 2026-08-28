@@ -3,5 +3,11 @@ __pycache__/
 .DS_Store
 out
 website/
+<<<<<<< HEAD
 docs-minimind/.idea/
+*.iml
+=======
+docs-minimind/
+>>>>>>> 30ba2fd405a73bf7d93271b8dbc20773ceb0d48f
+.idea/
 *.iml
